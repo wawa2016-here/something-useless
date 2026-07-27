@@ -1,4 +1,4 @@
 const button = document.getElementById("some-changes-to-the-title");
 button.addEventListener('click', () => {
-    element.insertAdjacentHTML('beforeend', 'ok so I'm back with some data done Im saying nothing')
+    document.getElementById("title")innerHTML = "Hello this is useless so don't blame me for wasting your time I have news no news"
   });
